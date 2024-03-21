@@ -3,14 +3,26 @@
     <title>Deng_Kai_Zhan</title>
     <link href="https://alancary.github.io/Web/feed.xml" rel="self" />
     <link href="https://alancary.github.io/Web" />
-    <updated>2024-03-21T16:06:49+08:00</updated>
+    <updated>2024-03-21T16:44:23+08:00</updated>
     <author>
         <name>Alan</name>
     </author>
     <id>https://alancary.github.io/Web</id>
 
     <entry>
-        <title>Halloworld</title>
+        <title>偶遇東門</title>
+        <author>
+            <name>Alan</name>
+        </author>
+        <link href="https://alancary.github.io/Web/ou-yu-dong-men.html"/>
+        <id>https://alancary.github.io/Web/ou-yu-dong-men.html</id>
+
+        <updated>2024-03-21T16:44:23+08:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>失重空間</title>
         <author>
             <name>Alan</name>
         </author>
