@@ -3,12 +3,24 @@
     <title>Deng_Kai_Zhan</title>
     <link href="https://alancary.github.io/Web/feed.xml" rel="self" />
     <link href="https://alancary.github.io/Web" />
-    <updated>2024-03-21T16:44:23+08:00</updated>
+    <updated>2024-03-21T16:52:37+08:00</updated>
     <author>
         <name>Alan</name>
     </author>
     <id>https://alancary.github.io/Web</id>
 
+    <entry>
+        <title>Blender</title>
+        <author>
+            <name>Alan</name>
+        </author>
+        <link href="https://alancary.github.io/Web/blender.html"/>
+        <id>https://alancary.github.io/Web/blender.html</id>
+
+        <updated>2024-03-21T16:52:37+08:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
     <entry>
         <title>偶遇東門</title>
         <author>
@@ -19,7 +31,13 @@
 
         <updated>2024-03-21T16:44:23+08:00</updated>
             <summary></summary>
-        <content></content>
+        <content type="html">
+            <![CDATA[
+                <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://alancary.github.io/Web/media/posts/2/gallery/_1880cec2-b2a1-40a0-a3c1-35a5b55cf6dc.jpg" data-size="1024x1024"><img loading="lazy" src="https://alancary.github.io/Web/media/posts/2/gallery/_1880cec2-b2a1-40a0-a3c1-35a5b55cf6dc-thumbnail.jpg" alt="" width="768" height="768"></a></figure>
+</div></div>
+            ]]>
+        </content>
     </entry>
     <entry>
         <title>失重空間</title>
