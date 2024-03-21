@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://alancary.github.io/Web/sitemap.xml

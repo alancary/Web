@@ -1,0 +1,26 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Deng_Kai_Zhan",
+    "description": "",
+    "home_page_url": "https://alancary.github.io/Web",
+    "feed_url": "https://alancary.github.io/Web/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Alan"
+    },
+    "items": [
+        {
+            "id": "https://alancary.github.io/Web/halloworld.html",
+            "url": "https://alancary.github.io/Web/halloworld.html",
+            "title": "Halloworld",
+            "content_html": "\n  <p>\n    \n  </p>",
+            "author": {
+                "name": "Alan"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-03-21T16:06:49+08:00",
+            "date_modified": "2024-03-21T16:06:49+08:00"
+        }
+    ]
+}
