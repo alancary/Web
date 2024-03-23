@@ -3,12 +3,24 @@
     <title>Deng_Kai_Zhan</title>
     <link href="https://alancary.github.io/Web/feed.xml" rel="self" />
     <link href="https://alancary.github.io/Web" />
-    <updated>2024-03-21T16:52:37+08:00</updated>
+    <updated>2024-03-23T13:48:18+08:00</updated>
     <author>
         <name>Alan</name>
     </author>
     <id>https://alancary.github.io/Web</id>
 
+    <entry>
+        <title>電繪練習</title>
+        <author>
+            <name>Alan</name>
+        </author>
+        <link href="https://alancary.github.io/Web/dian-hui.html"/>
+        <id>https://alancary.github.io/Web/dian-hui.html</id>
+
+        <updated>2024-03-23T12:49:39+08:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Blender</title>
         <author>
@@ -19,7 +31,13 @@
 
         <updated>2024-03-21T16:52:37+08:00</updated>
             <summary></summary>
-        <content></content>
+        <content type="html">
+            <![CDATA[
+                <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://alancary.github.io/Web/media/posts/3/gallery/12640263_1173009382711304_2589766045405436591_o.jpg" data-size="2048x1536"><img loading="lazy" src="https://alancary.github.io/Web/media/posts/3/gallery/12640263_1173009382711304_2589766045405436591_o-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
+</div></div>
+            ]]>
+        </content>
     </entry>
     <entry>
         <title>偶遇東門</title>
@@ -28,14 +46,19 @@
         </author>
         <link href="https://alancary.github.io/Web/ou-yu-dong-men.html"/>
         <id>https://alancary.github.io/Web/ou-yu-dong-men.html</id>
+        <media:content url="https://alancary.github.io/Web/media/posts/2/Xi-Zhan.jpg" medium="image" />
+            <category term="artwork"/>
 
         <updated>2024-03-21T16:44:23+08:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
-<figure class="gallery__item"><a href="https://alancary.github.io/Web/media/posts/2/gallery/_1880cec2-b2a1-40a0-a3c1-35a5b55cf6dc.jpg" data-size="1024x1024"><img loading="lazy" src="https://alancary.github.io/Web/media/posts/2/gallery/_1880cec2-b2a1-40a0-a3c1-35a5b55cf6dc-thumbnail.jpg" alt="" width="768" height="768"></a></figure>
-</div></div>
+                    <p><img src="https://alancary.github.io/Web/media/posts/2/Xi-Zhan.jpg" class="type:primaryImage" alt="" /></p>
+                
+<p class="align-left"><em>融合新竹在地文化的作品，地點為新竹的東門市場；對於外地來的學生來說，東門市場是</em>清華大學學生都會去過一次的地方，我們發現這裡有很多有歷史店家或是物品等等，我們去蒐集一些當地居民的說法以及文獻，把四個當成回憶物件，讓觀賞者在VR中環顧四週找到他們時，便會觸發關於這個回憶物件的相關動畫，回憶的場景是用meteshape將場景轉成點雲檔，點雲的場景像是過去記憶的感覺，像是讓觀者體驗過去一樣<br>    參加新竹汲地地方藝術創作培力計畫時，是偶遇東門市場_Ver1，也和多位前來展覽的觀眾討論回饋，因此我們把系統更佳的優化，並改大幅的改變場佈方式，產生了偶遇東門市場_Ver2，參加清華大學藝術學院學士班第四屆系展，榮獲「春之清華藝術卓越獎」。<br>    在這個作品中，我負責大部分的主場景建模，其中一個回憶物件的物件動畫，以及部分Unity程式。</p>
+<p> </p>
+<p class="align-center"> </p>
+<p class="align-center"><div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/gkxrLEYXou8?si=buIQRwzxi28yW1QS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="allowfullscreen"></iframe></div> </p>
             ]]>
         </content>
     </entry>
@@ -46,6 +69,7 @@
         </author>
         <link href="https://alancary.github.io/Web/halloworld.html"/>
         <id>https://alancary.github.io/Web/halloworld.html</id>
+            <category term="artwork"/>
 
         <updated>2024-03-21T16:06:49+08:00</updated>
             <summary></summary>
