@@ -3,12 +3,25 @@
     <title>Deng_Kai_Zhan</title>
     <link href="https://alancary.github.io/Web/feed.xml" rel="self" />
     <link href="https://alancary.github.io/Web" />
-    <updated>2024-03-23T13:48:18+08:00</updated>
+    <updated>2024-03-23T14:02:32+08:00</updated>
     <author>
         <name>Alan</name>
     </author>
     <id>https://alancary.github.io/Web</id>
 
+    <entry>
+        <title>KeepWorking</title>
+        <author>
+            <name>Alan</name>
+        </author>
+        <link href="https://alancary.github.io/Web/keepworking.html"/>
+        <id>https://alancary.github.io/Web/keepworking.html</id>
+        <media:content url="https://alancary.github.io/Web/media/posts/5/LINE_ALBUM_Dong-Li-Zhuang-Zhi_240323_1.jpg" medium="image" />
+
+        <updated>2024-03-23T13:54:23+08:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
     <entry>
         <title>電繪練習</title>
         <author>
@@ -16,6 +29,7 @@
         </author>
         <link href="https://alancary.github.io/Web/dian-hui.html"/>
         <id>https://alancary.github.io/Web/dian-hui.html</id>
+        <media:content url="https://alancary.github.io/Web/media/posts/4/draw2.png" medium="image" />
 
         <updated>2024-03-23T12:49:39+08:00</updated>
             <summary></summary>
@@ -28,16 +42,11 @@
         </author>
         <link href="https://alancary.github.io/Web/blender.html"/>
         <id>https://alancary.github.io/Web/blender.html</id>
+        <media:content url="https://alancary.github.io/Web/media/posts/3/LandNoise.png" medium="image" />
 
         <updated>2024-03-21T16:52:37+08:00</updated>
             <summary></summary>
-        <content type="html">
-            <![CDATA[
-                <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
-<figure class="gallery__item"><a href="https://alancary.github.io/Web/media/posts/3/gallery/12640263_1173009382711304_2589766045405436591_o.jpg" data-size="2048x1536"><img loading="lazy" src="https://alancary.github.io/Web/media/posts/3/gallery/12640263_1173009382711304_2589766045405436591_o-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
-</div></div>
-            ]]>
-        </content>
+        <content></content>
     </entry>
     <entry>
         <title>偶遇東門</title>
@@ -69,13 +78,27 @@
         </author>
         <link href="https://alancary.github.io/Web/halloworld.html"/>
         <id>https://alancary.github.io/Web/halloworld.html</id>
+        <media:content url="https://alancary.github.io/Web/media/posts/1/weightness.png" medium="image" />
             <category term="artwork"/>
 
         <updated>2024-03-21T16:06:49+08:00</updated>
-            <summary></summary>
+            <summary>
+                <![CDATA[
+                        <img src="https://alancary.github.io/Web/media/posts/1/weightness.png" alt="Weighless" />
+                    &nbsp; &nbsp; &nbsp; 靈感來源起源於一開始遊玩VR的經驗，我們認為VR像是從現實中分離一部分存在到虛擬世界中，所以我們對於現實空間位置的不確定性增加，以及我們遊玩後都有一點3D暈的現象，所以想以這些元素創作作品。 作品像是VR版的超現實主義，對於空間的想像，我們參考了許多電影，像是在全面啟動中得到空間可以旋轉的靈感；在Cube及漫畫鏈鋸人得到空間相同性的元素；以及在大衛．林區的作品墓荷蘭大道，片段使用緩慢移動的鏡頭語言來營造出不安以及詭異感；所以觀者將以第一人稱視角加上不穩定狀態的攝影機移動進行遊玩，並在不同房間會有不同的效果存在；在視覺方面，我們創造出一種材質，讓觀眾在移動過程中光影的會隨著觀者移動而改變，改變觀眾對於現實顏色的認知。 作品中主要負責房間擺設的各種3D建模、並把3D模型輸出到Unreal進行場景整合及Blueprint撰寫，整合所有Unreal東西與VR連接。&nbsp; &nbsp;
+                ]]>
+            </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://alancary.github.io/Web/media/posts/1/weightness.png" class="type:primaryImage" alt="Weighless" /></p>
                 
+  <p>
+    &nbsp; &nbsp; &nbsp; 靈感來源起源於一開始遊玩VR的經驗，我們認為VR像是從現實中分離一部分存在到虛擬世界中，所以我們對於現實空間位置的不確定性增加，以及我們遊玩後都有一點3D暈的現象，所以想以這些元素創作作品。  
+<br>      作品像是VR版的超現實主義，對於空間的想像，我們參考了許多電影，像是在全面啟動中得到空間可以旋轉的靈感；在Cube及漫畫鏈鋸人得到空間相同性的元素；以及在大衛．林區的作品墓荷蘭大道，片段使用緩慢移動的鏡頭語言來營造出不安以及詭異感；所以觀者將以第一人稱視角加上不穩定狀態的攝影機移動進行遊玩，並在不同房間會有不同的效果存在；在視覺方面，我們創造出一種材質，讓觀眾在移動過程中光影的會隨著觀者移動而改變，改變觀眾對於現實顏色的認知。 
+<br>         作品中主要負責房間擺設的各種3D建模、並把3D模型輸出到Unreal進行場景整合及Blueprint撰寫，整合所有Unreal東西與VR連接。&nbsp;
+  </p>
+<div><p class="align-center"><div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/gkxrLEYXou8?si=buIQRwzxi28yW1QS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="allowfullscreen"></iframe></div>&nbsp;</p></div>
+
   <p>
     
   </p>
